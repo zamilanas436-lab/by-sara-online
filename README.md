@@ -10,4 +10,4 @@ Static website (no build step) + Supabase for the database, photos and live upda
 - Both pages install as an app on phone and PC (manifest + `sw.js`)
 - `tools/icon.html` — renders the logo to the PNG icons in `icons/`
 
-Hosting: Render static site from `render.yaml`.
+Hosting: GitHub Pages from the `main` branch (https://zamilanas436-lab.github.io/by-sara-online/). `render.yaml` is kept in case it moves to Render.
